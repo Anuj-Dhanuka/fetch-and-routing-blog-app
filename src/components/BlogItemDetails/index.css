@@ -1,0 +1,43 @@
+/* Write your CSS code here */
+.bid-bg-container {
+  width: 740px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bid-title {
+  font-family: Roboto;
+  color: #000000;
+}
+
+.bid-author-details-container {
+  display: flex;
+  align-items: center;
+}
+
+.bid-author-avatar {
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.bid-author-name {
+  font-family: Roboto;
+}
+
+.bid-title-image-style {
+  height: 300px;
+  width: 700px;
+}
+
+.bid-content-container {
+  width: 96%;
+}
+
+.bid-content {
+  font-family: Roboto;
+  color: #2f4f4f;
+  margin-bottom: 36px;
+}
